@@ -1,0 +1,11 @@
+<?php
+include('content/components/home/1-historial.php');
+include('content/components/home/2-missao.php');
+include('content/components/home/3-orgaos-sociais.php');
+include('content/components/home/4-documentos.php');
+include('content/components/home/5-donativos.php');
+include('content/components/home/6-socios.php');
+include('content/components/home/7-respostas.php');
+include('content/components/home/8-contatos.php');
+include('content/components/home/9-eventos.php');
+?>

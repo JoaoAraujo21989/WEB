@@ -1,0 +1,99 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+}
+
+p{
+  text-indent: 20px;
+}
+
+#link-topo{
+  text-decoration: none;
+  background-color: white;
+  border-radius: 200px;
+  padding: 5px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+
+#btn-topo{
+  border-radius: 200px;
+  box-shadow: 1px 1px 1px #333;
+  width: 40px;
+  height: 40px;
+}
+
+#accordionExample {
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#DocInst{
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#socios{
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#carouselExampleDark{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#carouselExampleDark div div img{
+  border-radius: 10px;
+
+}
+
+footer div div img{
+  border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+  height: 70px;
+  margin-bottom: 25px;
+}
+
+#cardLogin{
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#imgLogin{
+  height: 150px;
+  width: 150px;
+  margin: auto;
+  border-radius: 300px;
+}
+
+#foto-user-lista{
+  height: 40px;
+  width: 40px;
+  border-radius: 200px;
+}
+
+.list-group-item.list-group-item-action{
+  padding: 1px;
+}
+#cardNovoUtente{
+  min-width: 300px;
+  width: 85%;
+}
+#foto-user{
+  height: 100px;
+  width: 100px;
+  border-radius: 200px;
+}
+
